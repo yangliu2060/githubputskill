@@ -1,0 +1,19 @@
+{
+  "name": "githubputskill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "before-after-hook": "^4.0.0",
+    "fast-content-type-parse": "^3.0.0",
+    "universal-user-agent": "^7.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
